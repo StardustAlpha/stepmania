@@ -3,7 +3,7 @@ THE BONE FILES ARE NOT DISTRIBUTED WITH ANY VERSION OF STEPMANIA/sm-ssc SINCE
 THEY CONTAIN COPYRIGHTED MATERIAL NOT MADE BY US. IF WE COME UP WITH DATA LATER,
 COOL. IF NOT, SO BE IT.
 
-http://stepmaniathings.com/downloads/characters/-required-bones-and-helper-files.html
+http://stepmaniathings.com/files/bones+helper.zip
 EXTRACT THE FILES IN THIS FOLDER SO THAT YOU SEE tons of _DDRPC_*.bones.txt files.
 
 THEN 3D CHARACTERS WILL WORK.
